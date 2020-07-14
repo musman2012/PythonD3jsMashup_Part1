@@ -1,5 +1,5 @@
-application: pythond3jsmashup
-version: 1
+#application: usmanpythond3jsmashup
+#version: 1
 runtime: python27
 api_version: 1
 threadsafe: true
